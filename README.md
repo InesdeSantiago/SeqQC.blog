@@ -11,6 +11,7 @@ This is the github project page for SeqQC blog - A blog about sequencing data, q
 
 - Project webpage on Github: <a href=http://inesdesantiago.github.io/SeqQC.blog/ target="_blank">http://inesdesantiago.github.io/SeqQC.blog/
 
-Contributors to the blog are <a href>me
-, <a href>Tom Carroll
+Contributors to the blog are <a href=https://github.com/InesdeSantiago>me
+, <a href=https://github.com/ThomasCarroll>Tom Carroll</a>
+
 , and Ziwei Liang. 
