@@ -1,8 +1,6 @@
 # SeqQC.blog
 Code and files for Seq QC blog
 
-
-
 ## Welcome Seq QC project webpage
 
 This is the github project page for SeqQC blog - A blog about sequencing data, quality control and bioinformatic analysis. This github repository contains code and files to use in the blog
